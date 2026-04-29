@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00d4ff"          # Azul claro (futurístico)
+backgroundColor = "#001219"       # Azul quase preto
+secondaryBackgroundColor = "#003366" # Azul marinho (barra lateral)
+textColor = "#FFFFFF"
+font = "sans serif"
